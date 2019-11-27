@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T14:11:18.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="DuBRFP1cNLjemENKV4r9" version="12.3.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-27T14:11:50.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="vSMFnzsch_zjRi2moein" version="12.3.1" type="github" pages="4">
   <diagram name="场景1-商户开通并购分" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="573" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -488,9 +488,20 @@
             <mxPoint x="1634.9999999999995" y="1273.5294117647059" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohoU1M737tt2WUhFRXQZ-130" value="商户审核通过通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ohoU1M737tt2WUhFRXQZ-129">
+        <mxCell id="ohoU1M737tt2WUhFRXQZ-130" value="商户审核结果通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ohoU1M737tt2WUhFRXQZ-129">
           <mxGeometry x="-0.2277" y="-1" relative="1" as="geometry">
             <mxPoint x="-21" y="0.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohoU1M737tt2WUhFRXQZ-135" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1229.9999999999995" y="1290.0588235294117" as="sourcePoint"/>
+            <mxPoint x="1624.9999999999995" y="1290.0588235294117" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohoU1M737tt2WUhFRXQZ-136" value="查看审核情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ohoU1M737tt2WUhFRXQZ-135">
+          <mxGeometry x="0.2354" y="4" relative="1" as="geometry">
+            <mxPoint x="-24.5" y="3.5" as="offset"/>
           </mxGeometry>
         </mxCell>
       </root>
