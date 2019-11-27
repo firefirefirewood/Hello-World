@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T14:11:50.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="vSMFnzsch_zjRi2moein" version="12.3.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-27T14:32:43.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="Wti0zX99i3FkLbi8Rajn" version="12.3.1" type="github" pages="4">
   <diagram name="场景1-商户开通并购分" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="573" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -582,7 +582,7 @@
             <mxPoint x="495" y="240" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIU8r86tIvMhfs9YMdke-14" value="网页内请求生成支付订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="GIU8r86tIvMhfs9YMdke-13">
+        <mxCell id="GIU8r86tIvMhfs9YMdke-14" value="传入OpenId，请求生成支付订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="GIU8r86tIvMhfs9YMdke-13">
           <mxGeometry y="-10" relative="1" as="geometry">
             <mxPoint x="4.5" y="-12" as="offset"/>
           </mxGeometry>
@@ -758,7 +758,7 @@
             <mxPoint x="285" y="720" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IINKS8qUpg1Cit4TUINT-36" value="返回注册结果 /&amp;nbsp;注册奖励 /&amp;nbsp;积分奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="IINKS8qUpg1Cit4TUINT-35">
+        <mxCell id="IINKS8qUpg1Cit4TUINT-36" value="返回注册结果 /&amp;nbsp;注册奖励 /&amp;nbsp;消费奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="IINKS8qUpg1Cit4TUINT-35">
           <mxGeometry y="-10" relative="1" as="geometry">
             <mxPoint y="10" as="offset"/>
           </mxGeometry>
@@ -852,9 +852,9 @@
             <mxPoint x="495" y="240" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E2w6t-2DSnfKi-KHJOw0-18" value="网页内请求生成支付订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="E2w6t-2DSnfKi-KHJOw0-17">
+        <mxCell id="E2w6t-2DSnfKi-KHJOw0-18" value="传入OpenId，请求生成支付订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="E2w6t-2DSnfKi-KHJOw0-17">
           <mxGeometry y="-10" relative="1" as="geometry">
-            <mxPoint x="4.5" y="-12" as="offset"/>
+            <mxPoint y="-10.5" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="E2w6t-2DSnfKi-KHJOw0-19" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="V7cyepzwVLopr2L88VB0-1">
@@ -1137,7 +1137,7 @@
             <mxPoint x="268" y="320.0000000000001" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrjWWNfEB2m_Jc2kB8M-19" value="冻结积分成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="bLrjWWNfEB2m_Jc2kB8M-18">
+        <mxCell id="bLrjWWNfEB2m_Jc2kB8M-19" value="冻结积分成功 /&amp;nbsp;实付金额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="bLrjWWNfEB2m_Jc2kB8M-18">
           <mxGeometry y="-10" relative="1" as="geometry">
             <mxPoint x="-9" y="10" as="offset"/>
           </mxGeometry>
