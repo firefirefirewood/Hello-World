@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T14:32:43.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="Wti0zX99i3FkLbi8Rajn" version="12.3.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-27T14:33:46.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="HVZklY7w5xTJAoHihAt2" version="12.3.1" type="github" pages="4">
   <diagram name="场景1-商户开通并购分" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="573" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1117,12 +1117,12 @@
             <mxPoint x="-9" y="10" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLrjWWNfEB2m_Jc2kB8M-14" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="mH1JgZMeejqsee4Cq4o5-1" source="3ABbaRoNphGvFmG7IPFl-8" target="bLrjWWNfEB2m_Jc2kB8M-20">
+        <mxCell id="bLrjWWNfEB2m_Jc2kB8M-14" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="mH1JgZMeejqsee4Cq4o5-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="353" y="280" as="sourcePoint"/>
-            <mxPoint x="483" y="310" as="targetPoint"/>
+            <mxPoint x="268" y="310" as="sourcePoint"/>
+            <mxPoint x="488" y="310" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="463" y="290"/>
+              <mxPoint x="463" y="310"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1133,8 +1133,8 @@
         </mxCell>
         <mxCell id="bLrjWWNfEB2m_Jc2kB8M-18" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="mH1JgZMeejqsee4Cq4o5-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="488" y="320.0000000000001" as="sourcePoint"/>
-            <mxPoint x="268" y="320.0000000000001" as="targetPoint"/>
+            <mxPoint x="488" y="330.0000000000001" as="sourcePoint"/>
+            <mxPoint x="268" y="330.0000000000001" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bLrjWWNfEB2m_Jc2kB8M-19" value="冻结积分成功 /&amp;nbsp;实付金额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="bLrjWWNfEB2m_Jc2kB8M-18">
@@ -1301,6 +1301,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLrjWWNfEB2m_Jc2kB8M-60" value="点击完成，关闭平台支付结果页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="bLrjWWNfEB2m_Jc2kB8M-59">
+          <mxGeometry y="-10" relative="1" as="geometry">
+            <mxPoint x="4.5" y="-12" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Js9Um8oKRv-a0-yLffAx-0" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" edge="1" parent="mH1JgZMeejqsee4Cq4o5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="53" y="299.5" as="sourcePoint"/>
+            <mxPoint x="258" y="299.5" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="233" y="299.5"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Js9Um8oKRv-a0-yLffAx-1" value="打开积分支付开关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Js9Um8oKRv-a0-yLffAx-0">
           <mxGeometry y="-10" relative="1" as="geometry">
             <mxPoint x="4.5" y="-12" as="offset"/>
           </mxGeometry>
