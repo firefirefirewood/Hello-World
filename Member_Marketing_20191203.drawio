@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T07:30:18.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="ie_OIsXlZnjAX-K2XrPk" version="12.3.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-03T07:30:33.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="NmfecGQaDWGOb8CeStBS" version="12.3.5" type="github" pages="4">
   <diagram name="场景1-商户开通并购分" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="322" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -984,7 +984,7 @@
             <mxPoint x="255" y="127" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yTwROIXOGGT7VwJEHYeT-8" value="冻结积分与卡券成功 /&amp;nbsp;实付金额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="yTwROIXOGGT7VwJEHYeT-7">
+        <mxCell id="yTwROIXOGGT7VwJEHYeT-8" value="冻结卡券成功 /&amp;nbsp;实付金额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="yTwROIXOGGT7VwJEHYeT-7">
           <mxGeometry y="-10" relative="1" as="geometry">
             <mxPoint x="1" y="8" as="offset"/>
           </mxGeometry>
