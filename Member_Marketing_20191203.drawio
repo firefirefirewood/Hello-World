@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T07:23:16.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="9yIcytRfCOpWFXWJePc4" version="12.3.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-03T07:23:43.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="os_nEkPB4-KSx_3aRT2y" version="12.3.5" type="github" pages="4">
   <diagram name="场景1-商户开通并购分" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="322" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -952,7 +952,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yTwROIXOGGT7VwJEHYeT-0" value="Alter：万金友会员混合支付" style="swimlane;" vertex="1" parent="POtOXzE_D4GUK6vgggto-1">
-          <mxGeometry x="30" y="260" width="750" height="200" as="geometry">
+          <mxGeometry x="30" y="260" width="510" height="140" as="geometry">
             <mxRectangle x="30" y="260" width="90" height="23" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
